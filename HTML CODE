@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+    <title>Well-Being in the Digital Age</title>
+</head>
+<body>
+   
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#self-assessment">Self-Assessment Tool</a></li>
+                <li><a href="#resources">Digital Well-Being Resources</a></li>
+                <li><a href="#mental-health">Mental Health Support</a></li>
+                <li><a href="#community">Community and Support</a></li>
+                <li><a href="#privacy">Privacy and Security</a></li>
+                <li><a href="#gamification">Gamification and Rewards</a></li>
+                <li><a href="#updates">Regular Updates and Content</a></li>
+                <li><a href="#feedback">Feedback and Improvement</a></li>
+                <li><a href="#partnerships">Partnerships and Collaborations</a></li>
+                <li><a href="#analytics">Analytics and Research</a></li>
+                <li><a href="#accessibility">Accessibility</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+   
+    <section id="home">
+        <h1>Welcome to Well-Being in the Digital Age</h1>
+        <p>Our mission is to promote mental health and well-being in today's digital world.</p>
+        <p>Discover resources and support to overcome challenges like information overload, social media pressure, and online harassment.</p>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We are a team of passionate individuals dedicated to improving digital well-being.</p>
+        <p>Our commitment is to help you navigate the digital age while prioritizing your mental health.</p>
+    </section>
+
+   
+
+</body>
+</html>
